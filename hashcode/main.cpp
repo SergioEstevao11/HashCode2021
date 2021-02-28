@@ -32,7 +32,7 @@ public:
     vector <Street> streetsOut;
     int TimeStop;
 
-    Intersection(){}
+    Intersection(){};
 
 
 };
