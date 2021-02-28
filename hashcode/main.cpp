@@ -41,7 +41,7 @@ public:
 class Car{
 public:
     int StreetAmount;
-    vector<string> streetnames; //ou string
+    vector<string> streetnames;
     int pathCounter = 0;
     Car(){};
 
